@@ -3,6 +3,9 @@
 Study revision material for SEE312 Data Communications, presented as 
 interactive HTML pages for in-browser review.
 
+## 🌐 View Revision Material
+👉 [Open Revision Hub](https://rjah-labs.github.io/see312-data-communications/)
+
 ## 📚 Subject Overview
 Covers core concepts in data communications including line coding, 
 modulation schemes, error detection and correction, and network protocols.
